@@ -24,7 +24,7 @@
   
   <p align="center"><br/>
    <a href="https://www.linkedin.com/in/gabriel-faria-4994561b9/">
-    <img src="https://img.shields.io/badge/gabriel-faria--lopes-blue">
+    <img src="https://img.shields.io/badge/gabriel-faria--blue">
   </a>
   
 </p>
