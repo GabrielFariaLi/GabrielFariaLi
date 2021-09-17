@@ -12,7 +12,7 @@
 - NodeJS & Express
 - HTML & CSS
 
-### 👧 a little about myself:
+### :grinning: a little about myself:
 - I'm 21 years old., and I live in Porto, PT
 - I study computer engineering in Lusofona University of Porto.
 - My whole life has been looking at a screen... and i found this way too enjoyable than i should.
