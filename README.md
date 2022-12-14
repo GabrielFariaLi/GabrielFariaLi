@@ -24,7 +24,7 @@
 ✨ where you can find me ✨
   
   <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/gabriel-faria-4994561b9/">
+   <a href="https://www.linkedin.com/in/gabriel-faria-lima/">
     <img src="https://img.shields.io/badge/linkedin-Gabriel-faria--blue">
   </a>
   
