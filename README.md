@@ -2,7 +2,6 @@
 <h3 align="center">🚀 ~~Wannabe~~ fullstack developer 🚀</h3>
 <h3 align="center">take a look at my portfolio <a href="https://gabriel100xd.vercel.app">here</a></h3>
 
-<img src="https://tenor.com/pt-PT/view/mushroom-happy-orange-cute-smile-gif-14450265"> 
 
 ### 💻 my favorite stack:
 - React.js
@@ -19,7 +18,6 @@
 - I study computer engineering in Lusofona University of Porto.
 - My whole life has been looking at a screen... and i found this way too enjoyable than i should.
 
-###############################################################################################################
 
 <h1 align="center">
 ✨ where you can find me ✨
