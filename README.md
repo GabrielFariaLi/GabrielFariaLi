@@ -1,9 +1,10 @@
 <h1 align="center"> :wave: hello, i'm Gabriel Faria </h1>
-<h3 align="center">🚀 ~~Wannabe~~ fullstack developer 🚀</h3>
+<h3 align="center">🚀 Software engineer 🚀</h3>
 <h3 align="center">take a look at my portfolio <a href="https://gabriel100xd.vercel.app">here</a></h3>
 
 
 ### 💻 my favorite stack:
+- Angular 17+
 - React.js
 - PHP
 - Kotlin
@@ -14,8 +15,8 @@
 - HTML & CSS
 
 ### :grinning: a little about myself:
-- I'm 21 years old., and I live in Porto, PT
-- I study computer engineering in Lusofona University of Porto.
+- I'm 23 years old., and I live in Brasília,Brazil.
+- I studied computer engineering in Lusofona University of Porto, PT.
 - My whole life has been looking at a screen... and i found this way too enjoyable than i should.
 
 
